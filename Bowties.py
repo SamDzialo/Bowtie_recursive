@@ -1,9 +1,7 @@
 """
-file: Bowties.py
 author: Sam Dzialo
 Email: sad8333@rit.edu
 language: python3.7
-description: Lab03 solution
 """
 import turtle as tt
 
